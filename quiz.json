@@ -1,0 +1,27 @@
+{
+   "FirebaseGenNode":{
+      "users":{
+         "id":2332535,
+         "name":"Linsy Joyner",
+         "username":"linsydeanna",
+         "available":true
+      },
+      "games":{
+         "gameID":9032840,
+         "player1":"linsydeanna",
+         "player2":"ross",
+         "question1":"Complete the classic line: That's no moon; it's a...",
+         "correctAnswer1":"Space station",
+         "isAnswered1":true,
+         "answeredBy1":"linsydeanna",
+         "playerAnswer1":"Droid",
+         "isCorrect1":false,
+         "question2":"Complete the classic line: That's no moon; it's a...",
+         "correctAnswer2":"Space station",
+         "isAnswered2":true,
+         "answeredBy2":"linsydeanna",
+         "playerAnswer2":"Droid",
+         "isCorrect2":false
+      }
+   }
+}
